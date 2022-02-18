@@ -10,24 +10,19 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
-<br/>
+Import robot from robomaster start the project.
 
 Step2:
+Import time.
 
-<br/>
-
-Step3:
-
-<br/>
+step3:
+Adjust the x, y and z axis to adjust the movement of the robot.
 
 Step4:
-
-<br/>
+Adjust the movement of the robot to move in circles.
 
 Step5:
-
-<br/>
+Close to finish the progaram.
 
 ## Program
 ```
